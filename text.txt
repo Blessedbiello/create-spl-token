@@ -1,0 +1,13 @@
+✅The public key is : Ao2AGvmumrasabM3iZj2F4zPXFXPUdcq67ziV2FD6tfy
+the secret key is :  Uint8Array(64) [
+   15,  10,  62, 123,  30,  39,  33, 107, 239,  52, 218,
+  207,  67, 220, 209,  36,  27, 103, 122,  72, 186,  84,
+  195,  88,  67,   8, 220, 249, 229, 139, 224, 120, 145,
+  131,  54,   8, 101, 246,  85, 222,  40, 193,  25, 105,
+  105, 116,  30,  33,  61, 165, 227, 161, 143,  37,  44,
+   28,  21, 182,  62,  64, 177, 134,  84, 136
+]
+done ✅
+
+token mint = 5k6F4jPMcnGV5hshJRonFTdmZxE9GLEJeMpXXsdsfRc1
+Token account: 2aj5pzYEtog5ca7nhij5NZ5Kr7ETQBMrHs47oxaZ99UW

@@ -1,0 +1,6 @@
+Create the Token Mint
+make metadata 
+create associated token account to store the tokens
+mint token
+
+Assignment is to send tokens to each other
